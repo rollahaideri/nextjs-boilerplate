@@ -21,13 +21,13 @@ const ForthSection = () => {
         ></Image>
       </div>
       <p className="pt-10 px-4 sm:text-2xl text-center text-Prussian-500">
-        "At Booker<b className="text-Elred-500 font-normal">Planner</b>, we
-        understand the importance of maintaining your brand identity. That's why
+        At Booker<b className="text-Elred-500 font-normal">Planner</b>, we
+        understand the importance of maintaining your brand identity. Thats why
         our platform is thoughtfully designed to seamlessly integrate with your
         branding elements. Customize your booking and scheduling experience with
-        your company's logo, color scheme, and style, ensuring a cohesive and
+        your companys logo, color scheme, and style, ensuring a cohesive and
         professional look. Our goal is to empower your brand while streamlining
-        your scheduling and booking processes."
+        your scheduling and booking processes.
       </p>
     </div>
   );

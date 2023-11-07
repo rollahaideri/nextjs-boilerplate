@@ -1,12 +1,8 @@
-import React from 'react'
-import Image from 'next/image'
-import CustomIcons from '@/components/CustomIcons'
-
-
+import React from "react";
+import Image from "next/image";
+import CustomIcons from "@/components/CustomIcons";
 
 const SecondSection = () => {
-
-
   return (
     <div className=" flex justify-center p-4 pt-2 pb-14 max-w-[1280px] m-auto">
       <div className="items-center">
@@ -14,7 +10,7 @@ const SecondSection = () => {
           Empower Your Business with On All-Inclusive App
         </p>
         <p className="pt-10 px-4 sm:text-2xl text-center text-Prussian-500">
-          At Booker<b className="text-Elred-500 font-normal">Planner</b>, we're
+          At Booker<b className="text-Elred-500 font-normal">Planner</b>, we are
           committed to simplifying booking, scheduling, and website development.
           We empower businesses and individuals to effortlessly manage
           appointments, enhance their online presence, and save time. Our
@@ -57,6 +53,6 @@ const SecondSection = () => {
       </div>
     </div>
   );
-}
+};
 
-export default SecondSection
+export default SecondSection;
